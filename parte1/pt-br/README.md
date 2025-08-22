@@ -195,9 +195,9 @@ function urlHandler(value) {
  <br>O modelo hexagonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
-<h4>34. Modelo floral 1: mesa</h4>
+<h4>34. Modelo floral 1: parede</h4>
 <a href="../vr/flor1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="kirigami floral"></a>
- <br>O modelo floral foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
+ <br>O modelo floral foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
  <br>
 <hr>
 <h4>35. Modelo floral 1: cilindro</h4>
@@ -210,9 +210,9 @@ function urlHandler(value) {
  <br>O modelo floral foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
-<h4>37. Modelo floral 2: mesa</h4>
+<h4>37. Modelo floral 2: parede</h4>
 <a href="../vr/flor2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="kirigami floral"></a>
- <br>O modelo floral foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
+ <br>O modelo floral foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
  <br>
 <hr>
 <h4>38. Modelo floral 2: cilindro</h4>

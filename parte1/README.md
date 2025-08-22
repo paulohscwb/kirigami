@@ -197,9 +197,9 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>The hexagonal model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>34. Floral model 1: table</h4>
+<h4>34. Floral model 1: wall</h4>
 <a href="vr/flor1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="kirigami Floral"></a>
- <br>The floral model was built with repetitions simulating a kirigami table, with shadow effects.
+ <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
 <h4>35. Floral model 1: cylinder</h4>
@@ -212,9 +212,9 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>37. Floral model 2: table</h4>
+<h4>37. Floral model 2: wall</h4>
 <a href="vr/flor2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="kirigami Floral"></a>
- <br>The floral model was built with repetitions simulating a kirigami table, with shadow effects.
+ <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
 <h4>38. Floral model 2: cylinder</h4>
