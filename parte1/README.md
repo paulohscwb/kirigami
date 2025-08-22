@@ -9,7 +9,7 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More kirigamis:</option>
 		<option disabled value="../parte1/">Polygonal</option>
-		<!--<option value="../parte2/">Floral themes</option>-->
+		<!--<option value="../parte2/">Floral themes</option> -->
 	</select>
 </form>
 <script>
