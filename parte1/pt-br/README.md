@@ -89,6 +89,7 @@ function urlHandler(value) {
 <a href="../vr/modelo4ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="kirigami poligonal"></a>
  <br>O modelo poligonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
+ <hr>
 <h4>13. Modelo pentagonal: mesa</h4>
 <a href="../vr/modelo5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="kirigami pentagonal"></a>
  <br>O modelo pentagonal foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
@@ -134,6 +135,7 @@ function urlHandler(value) {
 <a href="../vr/modelo7ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="kirigami poligonal"></a>
  <br>O modelo poligonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
+ <hr>
 <h4>22. Modelo pentagonal: mesa</h4>
 <a href="../vr/modelo8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="kirigami pentagonal"></a>
  <br>O modelo pentagonal foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
@@ -224,7 +226,6 @@ function urlHandler(value) {
 <a href="../vr/flor2ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
-<hr>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
