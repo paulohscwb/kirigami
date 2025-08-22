@@ -9,7 +9,7 @@
 <br>Origami uses only folds, while kirigami introduces cuts to add volume and complexity to the shapes. It can be used in decorations, cards, models, and other objects.
 <br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).
 <hr>
-<h3 style="margin-top:3px"><a target="_blank" href="parte1/"><img src="parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Polygonal</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="parte1/"><img src="parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Polygonal kirigamis</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="parte2/"><img src="parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Floral themes</a></h3>-->
 <hr>
 <h3 align="center">Virtual Reality</h3>

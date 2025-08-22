@@ -9,7 +9,7 @@
 <br>O origami utiliza apenas dobras, enquanto o kirigami introduz cortes para dar volume e alguma complexidade às formas, podendo ser usado em decorações, cartões, maquetes e outros objetos. 
 <br>Este trabalho mostra a arte do kirigami de uma forma um pouco diferente: as folhas são modeladas em arquivos para visualização em Realidade Virtual (RV).
 <hr>
-<h3 style="margin-top:3px"><a target="_blank" href="../parte1/pt-br/"><img src="../parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Poligonais</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../parte1/pt-br/"><img src="../parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Kirigamis poligonais</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../parte2/pt-br/"><img src="../parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Temas florais</a></h3>-->
 <hr>
 <h3 align="center">Realidade Virtual</h3>
