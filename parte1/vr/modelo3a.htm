@@ -32,7 +32,7 @@
 		</a-assets>
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig">
-			<a-entity camera="fov:80; near:0.01;" orbit-controls="target: 0 2 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 2 2; maxDistance: 15;"></a-entity>
+			<a-entity camera="fov:80; near:0.01;" orbit-controls="target: 0 2 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 2 2; maxDistance: 20;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		
