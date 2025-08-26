@@ -179,7 +179,7 @@ Pm/map_Pm 0.5
 d 0.97
 
 newmtl CorL
-Kd 0.3 0.3 0.3
+Kd 0.8 0.8 0.8
 Ks 0.3 0.3 0.3
 Pr/map_Pr 0.4
 Pm/map_Pm 0.5
