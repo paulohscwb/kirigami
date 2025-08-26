@@ -23,11 +23,11 @@
 			<a-mixin id="anima1a" animation__1="property: rotation; to: 0 90 0; dur: 25000; easing: easeInOutCirc; delay: 5000">
 			<a-mixin id="anima2a" animation__1="property: rotation; to: 0 -90 0; dur: 25000; easing: easeInOutCirc; delay: 5000">
 			<a-mixin id="anima2" animation__1="property: rotation; to: 0 -45 0; dur: 25000; easing: easeInOutCirc; delay: 5000">
-			<a-mixin id="anima3" animation__1="property: position; to: 0.707 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
-			<a-mixin id="anima4" animation__1="property: position; to: 1.4142 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
-			<a-mixin id="anima5" animation__1="property: position; to: 2.8284 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
-			<a-mixin id="anima6" animation__1="property: position; from: -4.5 5 -2.5; to: 4.5 5 -2.5; dur: 60000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
-			<a-mixin id="anima7" animation__1="property: position; from: 4.5 5 -5.5; to: -4.5 5 -5.5; dur: 60000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
+			<a-mixin id="anima3" animation__1="property: position; to: 0.7071068 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
+			<a-mixin id="anima4" animation__1="property: position; to: 1.41421356 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
+			<a-mixin id="anima5" animation__1="property: position; to: 2.8284271 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
+			<a-mixin id="anima6" animation__1="property: position; from: -4.5 5 -2.5; to: 4.5 5 -2.5; dur: 30000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
+			<a-mixin id="anima7" animation__1="property: position; from: 4.5 5 -13; to: -4.5 5 -13; dur: 30000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
 			<a-mixin id="luz" color="white" intensity="1" light="type: spot; angle: 45; penumbra: 0.5; castShadow:true; shadowBias: -0.01;">
 			<a-asset-item id="mt" src="obj/solidos.mtl"></a-asset-item>
 			<a-asset-item id="aq1" src="obj/m4.obj"></a-asset-item>
@@ -61,7 +61,7 @@
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		
-		<a-plane rotation="-90 0 0" position="0 -1 -4" shadow color="black" scale="20 15 0"></a-plane>
+		<a-plane rotation="-90 0 0" position="0 -1 -4" shadow color="black" scale="20 20 0"></a-plane>
 		<a-entity rotation="-90 0 0" position="-3.5 -0.2 -4" scale="2 2 2">
 			<a-entity>
 				<a-entity id="f1" position="0 -1 0" mixin="anima1">
@@ -539,6 +539,164 @@
 			</a-entity>			
 		</a-entity>
 		
+		<a-entity rotation="-90 0 0" position="-3.5 -0.2 -10" scale="2 2 2">
+			<a-entity>
+				<a-entity id="f1" position="0 -1 0" mixin="anima1">
+					<a-entity mixin="ar1"></a-entity>
+					<a-entity mixin="fc1"></a-entity>
+					<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+						<a-entity mixin="ar3"></a-entity>
+						<a-entity mixin="fc3"></a-entity>
+						<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+							<a-entity mixin="ar5"></a-entity>
+							<a-entity mixin="fc5"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity id="f2" position="0 -1 0" mixin="anima2">
+					<a-entity mixin="ar2"></a-entity>
+					<a-entity mixin="fc2"></a-entity>
+					<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+						<a-entity mixin="ar4"></a-entity>
+						<a-entity mixin="fc4"></a-entity>
+						<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+							<a-entity mixin="ar6"></a-entity>
+							<a-entity mixin="fc6"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity position="1 0 0" mixin="anima3">
+					<a-entity id="f1" position="0 -1 0" mixin="anima1">
+						<a-entity mixin="ar1"></a-entity>
+						<a-entity mixin="fc1"></a-entity>
+						<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+							<a-entity mixin="ar3"></a-entity>
+							<a-entity mixin="fc3"></a-entity>
+							<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+								<a-entity mixin="ar5"></a-entity>
+								<a-entity mixin="fc5"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity id="f2" position="0 -1 0" mixin="anima2">
+						<a-entity mixin="ar2"></a-entity>
+						<a-entity mixin="fc2"></a-entity>
+						<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+							<a-entity mixin="ar4"></a-entity>
+							<a-entity mixin="fc4"></a-entity>
+							<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+								<a-entity mixin="ar6"></a-entity>
+								<a-entity mixin="fc6"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity position="2 0 0" mixin="anima4">
+				<a-entity id="f1" position="0 -1 0" mixin="anima1">
+					<a-entity mixin="ar1"></a-entity>
+					<a-entity mixin="fc1"></a-entity>
+					<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+						<a-entity mixin="ar3"></a-entity>
+						<a-entity mixin="fc3"></a-entity>
+						<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+							<a-entity mixin="ar5"></a-entity>
+							<a-entity mixin="fc5"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity id="f2" position="0 -1 0" mixin="anima2">
+					<a-entity mixin="ar2"></a-entity>
+					<a-entity mixin="fc2"></a-entity>
+					<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+						<a-entity mixin="ar4"></a-entity>
+						<a-entity mixin="fc4"></a-entity>
+						<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+							<a-entity mixin="ar6"></a-entity>
+							<a-entity mixin="fc6"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity position="1 0 0" mixin="anima3">
+					<a-entity id="f1" position="0 -1 0" mixin="anima1">
+						<a-entity mixin="ar1"></a-entity>
+						<a-entity mixin="fc1"></a-entity>
+						<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+							<a-entity mixin="ar3"></a-entity>
+							<a-entity mixin="fc3"></a-entity>
+							<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+								<a-entity mixin="ar5"></a-entity>
+								<a-entity mixin="fc5"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity id="f2" position="0 -1 0" mixin="anima2">
+						<a-entity mixin="ar2"></a-entity>
+						<a-entity mixin="fc2"></a-entity>
+						<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+							<a-entity mixin="ar4"></a-entity>
+							<a-entity mixin="fc4"></a-entity>
+							<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+								<a-entity mixin="ar6"></a-entity>
+								<a-entity mixin="fc6"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity position="4 0 0" mixin="anima5">
+				<a-entity id="f1" position="0 -1 0" mixin="anima1">
+					<a-entity mixin="ar1"></a-entity>
+					<a-entity mixin="fc1"></a-entity>
+					<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+						<a-entity mixin="ar3"></a-entity>
+						<a-entity mixin="fc3"></a-entity>
+						<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+							<a-entity mixin="ar5"></a-entity>
+							<a-entity mixin="fc5"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity id="f2" position="0 -1 0" mixin="anima2">
+					<a-entity mixin="ar2"></a-entity>
+					<a-entity mixin="fc2"></a-entity>
+					<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+						<a-entity mixin="ar4"></a-entity>
+						<a-entity mixin="fc4"></a-entity>
+						<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+							<a-entity mixin="ar6"></a-entity>
+							<a-entity mixin="fc6"></a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity position="1 0 0" mixin="anima3">
+					<a-entity id="f1" position="0 -1 0" mixin="anima1">
+						<a-entity mixin="ar1"></a-entity>
+						<a-entity mixin="fc1"></a-entity>
+						<a-entity id="f3" position="-0.25 0 0" mixin="anima2a">
+							<a-entity mixin="ar3"></a-entity>
+							<a-entity mixin="fc3"></a-entity>
+							<a-entity id="f5" position="0.1 0 0" mixin="anima1a">
+								<a-entity mixin="ar5"></a-entity>
+								<a-entity mixin="fc5"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity id="f2" position="0 -1 0" mixin="anima2">
+						<a-entity mixin="ar2"></a-entity>
+						<a-entity mixin="fc2"></a-entity>
+						<a-entity id="f4" position="0.25 0 0" mixin="anima1a">
+							<a-entity mixin="ar4"></a-entity>
+							<a-entity mixin="fc4"></a-entity>
+							<a-entity id="f6" position="-0.1 0 0" mixin="anima2a">
+								<a-entity mixin="ar6"></a-entity>
+								<a-entity mixin="fc6"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+			</a-entity>			
+		</a-entity>
 		<a-light type="ambient" color="white" intensity="0.7"></a-light>
 		<a-entity mixin="anima6">
 			<a-light mixin="luz" rotation="-90 -90 -90"></a-light>
