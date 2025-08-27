@@ -26,8 +26,7 @@
 			<a-mixin id="anima3" animation__1="property: position; to: 0.7071068 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
 			<a-mixin id="anima4" animation__1="property: position; to: 1.41421356 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
 			<a-mixin id="anima5" animation__1="property: position; to: 2.8284271 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
-			<a-mixin id="anima6" animation__1="property: position; from: -4.5 5 -2.5; to: 4.5 5 -2.5; dur: 30000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
-			<a-mixin id="anima7" animation__1="property: position; from: 4.5 5 -15; to: -4.5 5 -15; dur: 30000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
+			<a-mixin id="anima6" animation__1="property: rotation; from: 0 0 0; to: 0 360 0; dur: 30000; easing: easeInOutCirc; delay: 0; loop: true; dir: alternate;">
 			<a-mixin id="luz" color="white" intensity="1" light="type: spot; angle: 45; penumbra: 0.5; castShadow:true; shadowBias: -0.01;">
 			<a-asset-item id="mt" src="obj/solidos.mtl"></a-asset-item>
 			<a-asset-item id="aq1" src="obj/m6.obj"></a-asset-item>
@@ -540,13 +539,11 @@
 		</a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-entity mixin="anima6">
-			<a-light mixin="luz" rotation="-90 -90 -90"></a-light>
-			<a-light mixin="luz" rotation="-90 -90 -90" position="0 0 -4.5"></a-light>
-		</a-entity>
-		<a-entity mixin="anima7">
-			<a-light mixin="luz" rotation="-90 -90 -90"></a-light>
-			<a-light mixin="luz" rotation="-90 -90 -90" position="0 0 4.5"></a-light>
+		<a-entity mixin="anima6" position="0 0 -9">
+			<a-light mixin="luz" rotation="-90 -90 -90" position="0 5 3.5"></a-light>
+			<a-light mixin="luz" rotation="-90 -90 -90" position="0 5 -3.5"></a-light>
+			<a-light mixin="luz" rotation="-90 -90 -90" position="3.5 5 0"></a-light>
+			<a-light mixin="luz" rotation="-90 -90 -90" position="-3.5 5 0"></a-light>
 		</a-entity>
 		<a-sky color="black" radius="25"></a-sky><a-sky src="https://paulohscwb.github.io/SacredGeometry/imagens/8k_stars_milky_way.jpg" radius="18"></a-sky>
     </a-scene>
