@@ -24,7 +24,7 @@
 			<a-mixin id="anima1a" animation__1="property: rotation; to: 0 90 0; dur: 25000; easing: easeInOutCirc; delay: 5000">
 			<a-mixin id="anima2a" animation__1="property: rotation; to: 0 -90 0; dur: 25000; easing: easeInOutCirc; delay: 5000">
 			<a-mixin id="anima3" animation__1="property: position; to: 0.5 0 -1.67303; dur: 24000; easing: easeInOutCirc; delay: 6750">
-			<a-mixin id="anima4" animation__1="property: rotation; to: 0 360 0; dur: 30000; easing: easeInOutCirc; delay: 5000; loop: true;">
+			<a-mixin id="anima4" rotation="0 0 -90" animation__1="property: rotation; to: 360 0 -90; dur: 30000; easing: easeInOutCirc; delay: 5000; loop: true;">
 			<a-mixin id="anima5" animation__1="property: position; to: 2.8284271 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
 			<a-mixin id="luz" color="white" intensity="1" light="type: spot; angle: 45; penumbra: 0.5; castShadow:true; shadowBias: -0.01;">
 			<a-asset-item id="mt" src="obj/solidos.mtl"></a-asset-item>
@@ -484,17 +484,13 @@
 			</a-entity>
 			
 			<a-light type="ambient" color="white" intensity="0.7"></a-light>
-			<a-entity mixin="anima4">
-				<a-light mixin="luz" rotation="0 -90 0" position="-6 3.5 0""></a-light>
-					<a-light mixin="luz" rotation="0 90 0" position="6 3.5 0""></a-light>
-					<a-light mixin="luz" rotation="0 -90 0" position="-6 10 0"></a-light>
-					<a-light mixin="luz" rotation="0 90 0" position="6 10 0"></a-light>
-					<!--<a-light mixin="luz" rotation="0 -135 0" position="-6 0 -6"></a-light>
-				<a-light mixin="luz" rotation="0 45 0" position="6 0 6"></a-light>
-				<a-light mixin="luz" rotation="0 -45 0" position="-6 0 6"></a-light>
-				<a-light mixin="luz" rotation="0 135 0" position="6 0 -6"></a-light>-->
+			<a-entity mixin="anima4" position="0 3.5 0">
+				<a-light mixin="luz" rotation="-90 -90 -90" position="0 5 3.5"></a-light>
+				<a-light mixin="luz" rotation="-90 -90 -90" position="0 5 -3.5"></a-light>
+				<a-light mixin="luz" rotation="-90 -90 -90" position="3.5 5 0"></a-light>
+				<a-light mixin="luz" rotation="-90 -90 -90" position="-3.5 5 0"></a-light>
 			</a-entity>
-			</a-entity>
+		</a-entity>
 		<a-sky color="black" radius="25"></a-sky><a-sky src="https://paulohscwb.github.io/SacredGeometry/imagens/8k_stars_milky_way.jpg" radius="18"></a-sky>
     </a-scene>
 	<div class="box">
