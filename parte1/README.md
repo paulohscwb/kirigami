@@ -28,7 +28,7 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <p align="center"><img src="vr/salas/videos/kirigami1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV kirigami"/><img src="vr/salas/videos/kirigami2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV kirigami"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXE37-GzEiObaiU6cwZwb6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV4sk-Y9EOkoPLT4pAW9tQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Polygonal model 1: table</h4>
 <a href="vr/modelo1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="kirigami poligonal"></a>
  <br>The polygonal model was built with repetitions simulating a kirigami table, with shadow effects.
