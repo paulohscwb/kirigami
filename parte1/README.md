@@ -197,32 +197,48 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>The hexagonal model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>34. Floral model 1: wall</h4>
+<h4>34. Heptagonal model: table</h4>
+<a href="vr/modelo07.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="kirigami Heptagonal"></a>
+ <br>The heptagonal model was built with repetitions simulating a kirigami table, with shadow effects.
+ <br>
+<hr>
+<h4>35. Heptagonal model: cylinder</h4>
+<a href="vr/modelo07a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="kirigami Heptagonal"></a>
+ <br>The heptagonal model was built with repetitions simulating a cylindrical tower, with shadow effects.
+ <br>
+<hr>
+<h4>36. Heptagonal model: portal</h4>
+<a href="vr/modelo07ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="kirigami Heptagonal"></a>
+ <br>The heptagonal model was built with repetitions simulating a portal (or tunnel), with shadow effects.
+ <br>
+<hr>
+<h4>37. Floral model 1: wall</h4>
 <a href="vr/flor1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
-<h4>35. Floral model 1: cylinder</h4>
+<h4>38. Floral model 1: cylinder</h4>
 <a href="vr/flor1a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
-<h4>36. Floral model 1: portal</h4>
+<h4>39. Floral model 1: portal</h4>
 <a href="vr/flor1ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>37. Floral model 2: wall</h4>
+<h4>40. Floral model 2: wall</h4>
 <a href="vr/flor2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
-<h4>38. Floral model 2: cylinder</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Floral model 2: cylinder</h4>
 <a href="vr/flor2a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
-<h4>39. Floral model 2: portal</h4>
+<h4>42. Floral model 2: portal</h4>
 <a href="vr/flor2ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
