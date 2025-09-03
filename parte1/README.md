@@ -243,6 +243,21 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
+<h4>43. Our Lady Aparecida model: wall</h4>
+<a href="vr/aparecida.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Our Lady Aparecida kirigami"></a>
+ <br>The Our Lady Aparecida model was built with repetitions simulating a kirigami wall, with shadow effects.
+ <br>
+<hr>
+<h4>44. Our Lady Aparecida model: cylinder</h4>
+<a href="vr/aparecidaa.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Our Lady Aparecida kirigami"></a>
+ <br>The Our Lady Aparecida model was built with repetitions simulating a cylindrical tower, with shadow effects.
+ <br>
+<hr>
+<h4>45. Our Lady Aparecida model: portal</h4>
+<a href="vr/aparecidaar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Our Lady Aparecida kirigami"></a>
+ <br>The Our Lady Aparecida model was built with repetitions simulating a portal (or tunnel), with shadow effects.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polygonal kirigamis: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/kirigami/parte1/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

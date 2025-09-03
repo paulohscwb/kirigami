@@ -243,6 +243,21 @@ function urlHandler(value) {
  <br>O modelo floral foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
+<h4>43. Modelo de Nossa Senhora Aparecida: parede</h4>
+<a href="../vr/aparecida.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="kirigami de Nossa Senhora Aparecida"></a>
+ <br>O modelo de Nossa Senhora Aparecida foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
+ <br>
+<hr>
+<h4>44. Modelo de Nossa Senhora Aparecida: cilindro</h4>
+<a href="../vr/aparecidaa.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="kirigami de Nossa Senhora Aparecida"></a>
+ <br>O modelo de Nossa Senhora Aparecida foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
+ <br>
+<hr>
+<h4>45. Modelo de Nossa Senhora Aparecida: portal</h4>
+<a href="../vr/aparecidaar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="kirigami de Nossa Senhora Aparecida"></a>
+ <br>O modelo de Nossa Senhora Aparecida foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polygonal kirigamis: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/kirigami/parte1/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

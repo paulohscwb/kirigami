@@ -27,16 +27,15 @@
 			<a-mixin id="anima4" animation__1="property: rotation; to: 0 360 0; dur: 60000; easing: easeInOutCirc; delay: 5000; loop: true;">
 			<a-mixin id="anima5" animation__1="property: position; to: 2.8284271 0 0; dur: 24000; easing: easeInOutCirc; delay: 6750">
 			<a-mixin id="luz" color="white" intensity="1" light="type: spot; angle: 45; penumbra: 0.5; castShadow:true; shadowBias: -0.01;">
-			<a-asset-item id="mt" src="https://paulohscwb.github.io/kirigami/parte1/vr/obj/solidos.mtl"></a-asset-item>
+			<a-asset-item id="mt" src="obj/solidos.mtl"></a-asset-item>
 			<a-asset-item id="mt1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
-			<a-asset-item id="aq1" src="https://paulohscwb.github.io/kirigami/parte1/vr/obj/aparecida.obj"></a-asset-item>
-			<a-asset-item id="aq2" src="https://paulohscwb.github.io/kirigami/parte1/vr/obj/aparecidaa.obj"></a-asset-item>
+			<a-asset-item id="aq1" src="obj/aparecida.obj"></a-asset-item>
+			<a-asset-item id="aq2" src="obj/aparecidaa.obj"></a-asset-item>
 			<a-mixin id="fc1" shadow obj-model="obj: #aq1; mtl: #mt"></a-mixin>
 			<a-mixin id="fc2" shadow obj-model="obj: #aq2; mtl: #mt"></a-mixin>
-			<a-asset-item id="aq3" src="https://paulohscwb.github.io/kirigami/parte1/vr/obj/aparecidad.obj"></a-asset-item>
-			<a-asset-item id="aq4" src="https://paulohscwb.github.io/kirigami/parte1/vr/obj/aparecidae.obj"></a-asset-item>
+			<a-asset-item id="aq3" src="obj/aparecidad.obj"></a-asset-item>
+			<a-asset-item id="aq4" src="obj/aparecidae.obj"></a-asset-item>
 			<a-mixin id="fc3" shadow obj-model="obj: #aq3; mtl: #mt"></a-mixin>
-			<a-mixin id="ar3" position="0 0 0.001" shadow obj-model="obj: #aq3l; mtl: #mt"></a-mixin>
 			<a-mixin id="fc4" shadow obj-model="obj: #aq4; mtl: #mt"></a-mixin>
 		</a-assets>
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
@@ -644,9 +643,9 @@
 		</a-entity>
 		<a-sky color="black" radius="25"></a-sky><a-sky src="https://paulohscwb.github.io/SacredGeometry/imagens/8k_stars_milky_way.jpg" radius="18"></a-sky>
     </a-scene>
-	<!--<div class="box">
+	<div class="box">
 		<span class="titulo">Modelo de Nossa Senhora Aparecida</span>
 		<br><span class="titulo">Our Lady Aparecida model</span>
-	</div>-->
+	</div>
   </body>
 </html>
