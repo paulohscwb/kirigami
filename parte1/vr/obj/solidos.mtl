@@ -1,5 +1,14 @@
 ## Alias MTL Material File
 
+newmtl Cor23
+Kd 0.95 1.0 1.0
+Ks 0.3 0.3 0.3
+Ni 1
+illum 4
+Pr/map_Pr 0.4
+Pm/map_Pm 0.5
+d 0.97
+
 newmtl Cor22
 Kd 0.3 0.3 1.0
 Ks 0.3 0.3 0.3
