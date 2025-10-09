@@ -5,9 +5,10 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/kirigami/pt-br/">versão em português</a>
- <br><br>Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - to cut, kami - paper). It is a variation of origami that combines the technique of folding paper with the art of cutting it to create three-dimensional figures and interesting shadow effects.
+ <div><img align="right" src="imagens/qr.png"/>
+ <br>Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - to cut, kami - paper). It is a variation of origami that combines the technique of folding paper with the art of cutting it to create three-dimensional figures and interesting shadow effects.
 <br>Origami uses only folds, while kirigami introduces cuts to add volume and complexity to the shapes. It can be used in decorations, cards, models, and other objects.
-<br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).
+<br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="parte1/"><img src="parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Polygonal kirigamis</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="parte2/"><img src="parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Floral themes</a></h3>-->

@@ -5,9 +5,10 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/kirigami/">english version</a>
-<br><br>O Kirigami é uma arte tradicional japonesa que significa "recortar papel" (kiru - recortar, kami - papel). Trata-se de uma variação do origami, que combina a técnica de dobrar o papel com a arte de recortá-lo para criar figuras tridimensionais e efeitos interessantes de sombras. 
+<div><img align="right" src="../imagens/qr.png"/>
+<br>O Kirigami é uma arte tradicional japonesa que significa "recortar papel" (kiru - recortar, kami - papel). Trata-se de uma variação do origami, que combina a técnica de dobrar o papel com a arte de recortá-lo para criar figuras tridimensionais e efeitos interessantes de sombras. 
 <br>O origami utiliza apenas dobras, enquanto o kirigami introduz cortes para dar volume e alguma complexidade às formas, podendo ser usado em decorações, cartões, maquetes e outros objetos. 
-<br>Este trabalho mostra a arte do kirigami de uma forma um pouco diferente: as folhas são modeladas em arquivos para visualização em Realidade Virtual (RV).
+<br>Este trabalho mostra a arte do kirigami de uma forma um pouco diferente: as folhas são modeladas em arquivos para visualização em Realidade Virtual (RV).</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../parte1/pt-br/"><img src="../parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Kirigamis poligonais</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../parte2/pt-br/"><img src="../parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Temas florais</a></h3>-->
