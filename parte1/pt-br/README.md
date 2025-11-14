@@ -7,7 +7,7 @@
 <br><a href="https://paulohscwb.github.io/kirigami/parte1/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
-		<option disabled selected>Mais sólidos:</option>
+		<option disabled selected>Mais kirigamis:</option>
 		<option disabled value="../../parte1/pt-br/">Poligonais</option>
 		<!--<option value="../../parte2/pt-br/">Temas florais</option>-->
 	</select>
