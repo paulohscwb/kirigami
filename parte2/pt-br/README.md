@@ -218,12 +218,12 @@ function urlHandler(value) {
  <br>O modelo da flor da vida foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
  <br>
 <hr>
-<h4>38. Modelo floral 1: cilindro</h4>
+<h4>38. Modelo da flor da vida: cilindro</h4>
 <a href="../vr/seed1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="kirigami da flor da vida"></a>
  <br>O modelo da flor da vida foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
  <br>
 <hr>
-<h4>39. Modelo floral 1: portal</h4>
+<h4>39. Modelo da flor da vida: portal</h4>
 <a href="../vr/seed1ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="kirigami da flor da vida"></a>
  <br>O modelo da flor da vida foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
