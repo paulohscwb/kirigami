@@ -8,8 +8,9 @@
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais kirigamis:</option>
-		<option disabled value="../../parte1/pt-br/">Poligonais</option>
-		<!--<option value="../../parte2/pt-br/">Temas florais</option>-->
+		<option disabled value="../../parte1/pt-br/">Poligonais e florais</option>
+		<option value="../../parte2/pt-br/">Curvas e florais 1</option>
+		<!--<option value="../../parte3/pt-br/">Curvas e florais 2</option>-->
 	</select>
 </form>
 <script>
@@ -19,7 +20,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Kirigamis poligonais</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Kirigamis poligonais e florais</h2>
   O Kirigami é uma arte tradicional japonesa que significa "recortar papel" (kiru - recortar, kami - papel). Trata-se de uma variação do origami, que combina a técnica de dobrar o papel com a arte de recortá-lo para criar figuras tridimensionais e efeitos interessantes de sombras. 
 <br>O origami utiliza apenas dobras, enquanto o kirigami introduz cortes para dar volume e alguma complexidade às formas, podendo ser usado em decorações, cartões, maquetes e outros objetos. 
 <br>Este trabalho mostra a arte do kirigami de uma forma um pouco diferente: as folhas são modeladas em arquivos para visualização em Realidade Virtual (RV).
@@ -212,33 +213,33 @@ function urlHandler(value) {
  <br>O modelo heptagonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
-<h4>37. Modelo floral 1: parede</h4>
+<h4>37. Modelo floral #1: parede</h4>
 <a href="../vr/flor1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
  <br>
 <hr>
-<h4>38. Modelo floral 1: cilindro</h4>
+<h4>38. Modelo floral #1: cilindro</h4>
 <a href="../vr/flor1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
  <br>
 <hr>
-<h4>39. Modelo floral 1: portal</h4>
+<h4>39. Modelo floral #1: portal</h4>
 <a href="../vr/flor1ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
-<h4>40. Modelo floral 2: parede</h4>
+<h4>40. Modelo floral #2: parede</h4>
 <a href="../vr/flor2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>41. Modelo floral 2: cilindro</h4>
+<h4>41. Modelo floral #2: cilindro</h4>
 <a href="../vr/flor2a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
  <br>
 <hr>
-<h4>42. Modelo floral 2: portal</h4>
+<h4>42. Modelo floral #2: portal</h4>
 <a href="../vr/flor2ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="kirigami floral"></a>
  <br>O modelo floral foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>

@@ -8,8 +8,9 @@
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More kirigamis:</option>
-		<option disabled value="../parte1/">Polygonal</option>
-		<!--<option value="../parte2/">Floral themes</option> -->
+		<option disabled value="../parte1/">Polygonal and floral</option>
+		<option value="../parte2/">Curves and florals 1</option>
+		<!--<option value="../parte3/">Curves and florals 2</option> -->
 	</select>
 </form>
 <script>
@@ -19,7 +20,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Polygonal kirigamis</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Polygonal and floral kirigamis</h2>
 Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - to cut, kami - paper). It is a variation of origami that combines the technique of folding paper with the art of cutting it to create three-dimensional figures and interesting shadow effects.
 <br>Origami uses only folds, while kirigami introduces cuts to add volume and complexity to the shapes. It can be used in decorations, cards, models, and other objects.
 <br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).
@@ -212,33 +213,33 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>The heptagonal model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>37. Floral model 1: wall</h4>
+<h4>37. Floral model #1: wall</h4>
 <a href="vr/flor1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
-<h4>38. Floral model 1: cylinder</h4>
+<h4>38. Floral model #1: cylinder</h4>
 <a href="vr/flor1a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
-<h4>39. Floral model 1: portal</h4>
+<h4>39. Floral model #1: portal</h4>
 <a href="vr/flor1ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
-<h4>40. Floral model 2: wall</h4>
+<h4>40. Floral model #2: wall</h4>
 <a href="vr/flor2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a kirigami wall, with shadow effects.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>41. Floral model 2: cylinder</h4>
+<h4>41. Floral model #2: cylinder</h4>
 <a href="vr/flor2a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
-<h4>42. Floral model 2: portal</h4>
+<h4>42. Floral model #2: portal</h4>
 <a href="vr/flor2ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="kirigami Floral"></a>
  <br>The floral model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
@@ -260,10 +261,10 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polygonal kirigamis: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/kirigami/parte1/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polygonal and floral kirigamis: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/kirigami/parte1/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
 <h4>How to cite this work:</h4> 
-<p>Siqueira, P.H., "Polygonal kirigamis: visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/kirigami/parte1/>, August 2025.</p>
+<p>Siqueira, P.H., "Polygonal and floral kirigamis: visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/kirigami/parte1/>, August 2025.</p>
 <!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
 <br><br><b>References:</b>
 <br>Otsu, G. M., Yamada, T. R. U. Kirigami 3D aplicado: uma proposta em design de produto dobrável. Revista Brasileira de Expressão Gráfica, v. 7, n. 1, 2019 <a href="https://www.rbeg.net/index.php/rbeg/article/view/73" target="_blank">https://www.rbeg.net/index.php/rbeg/article/view/73</a>

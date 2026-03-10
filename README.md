@@ -10,8 +10,9 @@
 <br>Origami uses only folds, while kirigami introduces cuts to add volume and complexity to the shapes. It can be used in decorations, cards, models, and other objects.
 <br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).</div>
 <hr>
-<h3 style="margin-top:3px"><a target="_blank" href="parte1/"><img src="parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Polygonal kirigamis</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="parte2/"><img src="parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Floral themes</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="parte1/"><img src="parte1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Polygonal and floral kirigamis</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="parte2/"><img src="parte2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curves and florals kirigamis 1</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="parte3/"><img src="parte3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curves and florals kirigamis 2</a></h3>-->
 <hr>
 <h3 align="center">Virtual Reality</h3>
 <p align="center"><img src="parte1/vr/salas/videos/kirigami1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="parte1/vr/salas/videos/kirigami2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
