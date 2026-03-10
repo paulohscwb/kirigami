@@ -199,32 +199,32 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
  <br>
 <hr>
 <h4>34. Sidewalk model of Rio de Janeiro: table</h4>
-<a href="vr/rio.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
+<a href="vr/rio.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
  <br>The sidewalk model of Rio de Janeiro was built with repetitions simulating a kirigami table, with shadow effects.
  <br>
 <hr>
 <h4>35. Sidewalk model of Rio de Janeiro: cylinder</h4>
-<a href="vr/rioa.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
+<a href="vr/rioa.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
  <br>The sidewalk model of Rio de Janeiro was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
 <h4>36. Sidewalk model of Rio de Janeiro: portal</h4>
-<a href="vr/rioar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
+<a href="vr/rioar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="sidewalk model of Rio de Janeiro kirigami"></a>
  <br>The sidewalk model of Rio de Janeiro was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>
 <h4>37. Flower of life model: table</h4>
-<a href="vr/seed1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Flower of life kirigami"></a>
+<a href="vr/seed1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Flower of life kirigami"></a>
  <br>The flower of life model was built with repetitions simulating a kirigami table, with shadow effects.
  <br>
 <hr>
 <h4>38. Flower of life model: cylinder</h4>
-<a href="vr/seed1a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Flower of life kirigami"></a>
+<a href="vr/seed1a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Flower of life kirigami"></a>
  <br>The flower of life model was built with repetitions simulating a cylindrical tower, with shadow effects.
  <br>
 <hr>
 <h4>39. Flower of life model: portal</h4>
-<a href="vr/seed1ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Flower of life kirigami"></a>
+<a href="vr/seed1ar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Flower of life kirigami"></a>
  <br>The flower of life model was built with repetitions simulating a portal (or tunnel), with shadow effects.
  <br>
 <hr>

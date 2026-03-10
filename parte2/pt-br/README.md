@@ -199,32 +199,32 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>34. Modelo de calçada do Rio de Janeiro: mesa</h4>
-<a href="../vr/rio.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
+<a href="../vr/rio.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
  <br>O modelo de calçada do Rio de Janeiro foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
  <br>
 <hr>
 <h4>35. Modelo de calçada do Rio de Janeiro: cilindro</h4>
-<a href="../vr/rioa.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
+<a href="../vr/rioa.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
  <br>O modelo de calçada do Rio de Janeiro foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
  <br>
 <hr>
 <h4>36. Modelo de calçada do Rio de Janeiro: portal</h4>
-<a href="../vr/rioar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
+<a href="../vr/rioar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="kirigami de calçada do Rio de Janeiro"></a>
  <br>O modelo de calçada do Rio de Janeiro foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
 <h4>37. Modelo da flor da vida: mesa</h4>
-<a href="../vr/seed1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="kirigami da flor da vida"></a>
+<a href="../vr/seed1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="kirigami da flor da vida"></a>
  <br>O modelo da flor da vida foi construído com repetições simulando uma mesa de kirigamis, com efeitos de sombras.
  <br>
 <hr>
 <h4>38. Modelo floral 1: cilindro</h4>
-<a href="../vr/seed1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="kirigami da flor da vida"></a>
+<a href="../vr/seed1a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="kirigami da flor da vida"></a>
  <br>O modelo da flor da vida foi construído com repetições simulando uma torre cilíndrica, com efeitos de sombras.
  <br>
 <hr>
 <h4>39. Modelo floral 1: portal</h4>
-<a href="../vr/seed1ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="kirigami da flor da vida"></a>
+<a href="../vr/seed1ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="kirigami da flor da vida"></a>
  <br>O modelo da flor da vida foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
