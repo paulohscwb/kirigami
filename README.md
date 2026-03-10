@@ -16,6 +16,7 @@
 <hr>
 <h3 align="center">Virtual Reality</h3>
 <p align="center"><img src="parte1/vr/salas/videos/kirigami1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="parte1/vr/salas/videos/kirigami2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="parte2/vr/salas/videos/kirigamip2.gif" style="max-width: 87%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">3D models</h3>
 <p align="center"><img src="parte1/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>

@@ -26,7 +26,7 @@ Kirigami is a traditional Japanese art form that means "paper cutting" (kiru - t
 <br>This work show the art of kirigami in a slightly different way: the sheets are modeled in files for viewing in Virtual Reality (VR).
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img src="vr/salas/videos/kirigami1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV kirigami"/><img src="vr/salas/videos/kirigami2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV kirigami"/></p> 
+ <p align="center"><img src="vr/salas/videos/kirigamip2.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV kirigami"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV4sk-Y9EOkoPLT4pAW9tQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->

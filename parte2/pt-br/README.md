@@ -26,7 +26,7 @@ function urlHandler(value) {
 <br>Este trabalho mostra a arte do kirigami de uma forma um pouco diferente: as folhas são modeladas em arquivos para visualização em Realidade Virtual (RV).
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-  <p align="center"><img src="../vr/salas/videos/kirigami1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR kirigami"/><img src="../vr/salas/videos/kirigami2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR kirigami"/></p> 
+  <p align="center"><img src="../vr/salas/videos/kirigamip2.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR kirigami"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV4sk-Y9EOkoPLT4pAW9tQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
@@ -163,7 +163,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>27. Modelo heptagonal: portal</h4>
-<a href="../vr/modelo07cr.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="kirigami heptagonal"></a>
+<a href="../vr/modelo07cr.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="kirigami heptagonal"></a>
  <br>O modelo heptagonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>

@@ -163,7 +163,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>27. Modelo hexagonal: portal</h4>
-<a href="../vr/modelo9ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="kirigami hexagonal"></a>
+<a href="../vr/modelo9ar.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="kirigami hexagonal"></a>
  <br>O modelo hexagonal foi construído com repetições simulando um portal (ou túnel), com efeitos de sombras.
  <br>
 <hr>
