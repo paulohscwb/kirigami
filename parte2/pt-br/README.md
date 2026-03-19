@@ -29,7 +29,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/kirigamip2.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR kirigami"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV4sk-Y9EOkoPLT4pAW9tQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXdyfe5NnpQcJvue5lG2s6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Modelo de catavento triangular: parede</h4>
 <a href="../vr/cata1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="kirigami de catavento triangular"></a>
  <br>O modelo de catavento triangular foi construído com repetições simulando uma parede de kirigamis, com efeitos de sombras.
